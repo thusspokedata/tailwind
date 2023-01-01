@@ -23,13 +23,9 @@
 
 <h3>Some sites of interest:</h3>
 
-[Flowbite](www.flowbite.com)
-
-[tailwinds-elements](www.tailwind-elements.com)
-
-[tailwindsuikit](www.tailwinduikit.com)
-
-[tailwindcomponents](https://tailwindcomponents.com/)
-
-[tailwindsui](www.tailwindui.com)
+<a href="www.flowbite.com" target="_blank">Flowbite</a><br>
+<a href="www.tailwind-elements.com" target="_blank">Tailwind-elements</a><br>
+<a href="(www.tailwinduikit.com" target="_blank">Tailwinduikit</a><br>
+<a href="https://tailwindcomponents.com" target="_blank">Tailwindcomponents</a><br>
+<a href="www.tailwindui.com" target="_blank">Tailwindui</a><br>
 
